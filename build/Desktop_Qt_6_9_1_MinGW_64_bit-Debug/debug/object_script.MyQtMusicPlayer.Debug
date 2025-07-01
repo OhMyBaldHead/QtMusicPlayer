@@ -1,0 +1,10 @@
+debug/LyricWidget.o
+debug/Music.o
+debug/MusicList.o
+debug/MusicListWidget.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_imagefile.o
+debug/moc_LyricWidget.o
+debug/moc_MusicListWidget.o
+debug/moc_mainwindow.o
